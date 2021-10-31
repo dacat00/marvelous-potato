@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: DESCARGALA AHORA!!!
-    subtitle: Te regalamos una lsta con las zonas de mejor inversion
+    subtitle: >-
+      Te regalamos una lista con las zonas de mayor plusvalia de Santa Cruz de
+      la Sierra
     actions:
       - label: Contact Me
         url: /contact
